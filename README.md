@@ -1,4 +1,5 @@
 **Steps**
+br
 Open Git Bash on my local PC.
 Make a new directory and initialize it for version control
   mkdir MarketPeak_Ecommerce
